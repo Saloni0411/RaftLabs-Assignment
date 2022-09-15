@@ -1,0 +1,68 @@
+table td{
+	border-style:solid; padding:30px;
+	background-repeat: no-repeat; background-size: 60px;
+}
+table{
+	float:left;
+	width: 40%;
+	border-style: solid;
+	border-color: brown;
+	padding: 2px;
+	background-color: #FFE4C4;
+}
+#all_info{
+	float:right;
+	width:50%;
+	position: relative;
+	right: 5%;
+	border-style: dashed;
+	border-color: black;
+	border-width: 1px;
+	padding: 10px;
+	background-color: #eeeeee;
+	font-variant: small-caps;
+	font-family: Consolas;
+	font-size: 17px;
+}
+#game_Info{
+	width:95%;
+	border-style:solid;
+	border-width:2px;
+	border-color:darkgreen;
+	padding:10px;
+	background-color: lightgreen;
+	color:darkgreen;
+}
+#score{
+	width:95%;
+	border-style:solid;
+	border-width:2px;
+	border-color:darkred;
+	padding:10px;
+	background-color: pink;
+	color:darkred;
+}
+#result{
+	width:95%;
+	border-style:solid;
+	border-width:2px;
+	border-color:brown;
+	padding:10px;
+	background-color: #FFE4C4;
+}
+#restart{
+	padding:2px;
+	margin:5px;
+	margin-bottom:0px;
+	width:100px;
+	border-style: solid;
+	border-color: black;
+	font-variant: small-caps;
+	font-family: Consolas;
+	font-size: 17px;
+}
+body{
+	background-size: 100%;
+	background-image: url(chess_background.jpg);
+	background-repeat: no-repeat;
+}

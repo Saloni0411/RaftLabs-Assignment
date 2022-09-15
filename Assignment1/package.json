@@ -1,0 +1,24 @@
+{
+  "name": "backened",
+  "version": "1.0.0",
+  "description": "RaftLabs Assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saloni0411/RaftLabs-Assignment.git"
+  },
+  "author": "Saloni Shukla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saloni0411/RaftLabs-Assignment/issues"
+  },
+  "homepage": "https://github.com/Saloni0411/RaftLabs-Assignment#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.6.0",
+    "nodemon": "^2.0.19"
+  }
+}
